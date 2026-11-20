@@ -53,6 +53,16 @@ export function SiteFooter() {
             {studio.name} · {studio.photographer}, {studio.role}
           </p>
           <p>{studio.location.display}</p>
+          <p>
+            Developed by{" "}
+            <a
+              href="https://www.linkedin.com/in/ankit-suyal-b37789344/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Ankit Suyal
+            </a>
+          </p>
         </div>
       </div>
     </footer>
